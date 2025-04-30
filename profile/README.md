@@ -4,4 +4,4 @@
 
 - [Images](https://github.com/nabu-alarm/images)
 
-- [Package repo](https://github.com/nabu-alarm/repo)
+- [Pacman repo](https://github.com/nabu-alarm/repo)
